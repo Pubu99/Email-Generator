@@ -1,0 +1,14 @@
+fastapi              # Fast web framework for building APIs
+uvicorn[standard]    # ASGI server for running FastAPI apps
+torch                # PyTorch for deep learning and tensor operations
+transformers         # Hugging Face library for NLP models and training
+numpy                # Numerical computations and array operations
+pydantic             # Data validation for FastAPI
+pandas               # Data manipulation for dataset loading
+scikit-learn         # Machine learning tools for encoding and splitting
+streamlit            # Framework for data app UIs
+spacy                # NLP library for text preprocessing
+en-core-web-sm       # spaCy English model for entity recognition and tokenization
+sentence-transformers # For zero-shot classification in preprocessing
+hf_xet               # XetHub integration for data/model versioning
+accelerate           # Simplifies distributed training for transformers

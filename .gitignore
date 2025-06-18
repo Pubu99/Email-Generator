@@ -11,5 +11,5 @@ build/
 *.ipynb_checkpoints/
 models/intent_classifier/*
 models/reply_generator/*
-data/raw_enron.csv
+data/emails.csv
 data/labeled_emails.csv
