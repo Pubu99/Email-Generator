@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+*.egg-info/
+dist/
+build/
+*.ipynb_checkpoints/
+models/intent_classifier/*
+models/reply_generator/*
+data/raw_enron.csv
+data/labeled_emails.csv
